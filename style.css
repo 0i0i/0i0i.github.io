@@ -181,8 +181,8 @@ Version: 0.0.2
 	}
 	.A1Button:hover ~ .menuBoxBack {background-image: url("imgs/Menu/1SPACE.png");}
 	.A2Button:hover ~ .menuBoxBack {background-image: url("imgs/Menu/2SPACE.png");}
-	.A3Button:hover ~ .menuBoxBack {background-image: url("imgs/Menu/3SPACE.png");}
-	.A4Button:hover ~ .menuBoxBack {background-image: url("imgs/Menu/5SPACEb.png");}
+	/*.A3Button:hover ~ .menuBoxBack {background-image: url("imgs/Menu/3SPACE.png");}
+	.A4Button:hover ~ .menuBoxBack {background-image: url("imgs/Menu/5SPACEb.png");}*/
 
 	.commissionedworklist {
 		display: none;
