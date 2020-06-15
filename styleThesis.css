@@ -185,7 +185,7 @@ html {
 	top: 0px;
 	left: 0px;
 	height: 100vh !important;
-	min-width: 800vw;
+	width: 2100vw;
 	z-index: -3;
 }
 
@@ -215,8 +215,22 @@ html {
 .page2 {background-image: url('imgs/Eggsistence/2.png');}
 .page3 {background-image: url('imgs/Eggsistence/3.png');}
 .page4 {background-image: url('imgs/Eggsistence/4.png');}
-.page5 {background-image: url('imgs/Eggsistence/5.png');}
-.page6 {background-image: url('imgs/Eggsistence/6.png');}
+.page5 {background-image: url('imgs/Eggsistence/5.jpg');}
+.page6 {background-image: url('imgs/Eggsistence/6.jpg');}
+.page7 {background-image: url('imgs/Eggsistence/7.jpg');}
+.page8 {background-image: url('imgs/Eggsistence/8.jpg');}
+.page9 {background-image: url('imgs/Eggsistence/9.jpg');}
+.page10 {background-image: url('imgs/Eggsistence/10.jpg');}
+.page11 {background-image: url('imgs/Eggsistence/11.jpg');}
+.page12 {background-image: url('imgs/Eggsistence/12.jpg');}
+.page13 {background-image: url('imgs/Eggsistence/13.jpg');}
+.page14 {background-image: url('imgs/Eggsistence/14.jpg');}
+.page15 {background-image: url('imgs/Eggsistence/15.jpg');}
+.page16 {background-image: url('imgs/Eggsistence/16.png');}
+.page17 {background-image: url('imgs/Eggsistence/17.png');}
+.page18 {background-image: url('imgs/Eggsistence/18.png');}
+.page19 {background-image: url('imgs/Eggsistence/19.png');}
+.page20 {background-image: url('imgs/Eggsistence/20.png');}
 
 
 
