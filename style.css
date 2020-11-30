@@ -391,6 +391,13 @@ html {
 		padding-top: 10vh;
 		padding-bottom: 10vh;
 		z-index: 9;
+
+		top: 50px;
+		right: 30px;
+		bottom: 20px;
+		color: rgb(10,40,10);
+		border: 1px solid rgb(10,40,10);
+		background-color: rgba(250,255,245,1);
 	}
 	.commissionimages img {
 		position: relative;
@@ -508,20 +515,20 @@ html {
 	}
 	
 	.A1 {left: 0%;}
-	.A1style {top: 8%; left: 10%; width: 18%; height: 40%;}
-	.A1style:hover {background-color: rgba(255,255,205,.8);}
+	.A1style {top: 8%; left: 4%; width: 20%; height: 40%;}
+	.A1style:hover {background-color: rgba(255,255,255,.8);}
 	.A1projectStyle {background-color: rgb(255,255,205);}
 
 	.A2 {left: 100%;}
 	.A2style {top: 2%; left: 2%; width: 18%; height: 33%;}
-	.A2style:hover {background-color: rgba(255,255,255,.8);}
+	.A2style:hover {background-color: rgba(235,255,255,.8);}
 	.A2projectStyle {background-color: #FFE370;}
 	
-	.A3 {left: 200%; background-color: rgba(255,235,185,1);}
+	.A3 {left: 200%; background-color: rgba(175,212,183,1);}
 	.A3style {top: 8%; left: 10%; width: 20%; height: 70%;}
-	.A3style:hover {background-color: rgba(255,205,255,.8);}
+	.A3style:hover {background-color: rgba(255,240,255,.8);}
 	
-	.A4 {left: 300%; background-color: rgba(255,205,155,1);}
+	.A4 {left: 300%; background-color: rgba(0,0,0,1);}
 	.A4style {top: 2%; left: 2%; height: 33%; width: 18%;}
 	.A4style:hover {background-color: rgba(255,255,205,.8);}
 /* ////////////////////// */
