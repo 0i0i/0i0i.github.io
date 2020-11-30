@@ -407,11 +407,11 @@ html {
 		max-width: 35vh;
 		/*max-width: 15vw;*/
 	}
-	.commissionimagesshow:hover {
+	/*.commissionimagesshow:hover {
 		background-color: white;
 		color: red;
 		text-decoration: underline;
-	}
+	}*/
 	.commissionimagesclose {
 		width: auto;
 		color: rgb(10,40,10);
