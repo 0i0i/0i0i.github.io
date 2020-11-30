@@ -46,6 +46,8 @@ html {
 		-moz-font-smoothing: antialiased;
 		-o-font-smoothing: antialiased;
 		-webkit-overflow-scrolling: touch;
+
+		overflow-y: hidden;
 	}
 	
 	a {
